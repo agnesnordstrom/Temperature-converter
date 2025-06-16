@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Scheduler", "2D Scheduler\2D Scheduler.csproj", "{B7A7B49E-9DF9-460D-9F2F-CD767B7705F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2B GuessTheNumberGame", "GuessANumberGame\2B GuessTheNumberGame.csproj", "{1AE98B9C-CDD5-4AAB-A030-45B0362BEC3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2C TemperatureConverter", "TemperatureConverter\TemperatureConverter\2C TemperatureConverter.csproj", "{3AA51722-2E8B-49BE-8008-8D6F6DD1BC85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B23070C0-B0C4-45E3-A685-47F28A735EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2C StringFunctions", "String\Assignment 2 string\2C StringFunctions.csproj", "{219648F5-9B9D-419E-8A09-E0A3098D4F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2A CostCalculator", "CostCalculator\Assignment 2\2A CostCalculator.csproj", "{4B8DA048-0CF6-46CF-BE92-B800D06D52E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A7B49E-9DF9-460D-9F2F-CD767B7705F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A7B49E-9DF9-460D-9F2F-CD767B7705F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A7B49E-9DF9-460D-9F2F-CD767B7705F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A7B49E-9DF9-460D-9F2F-CD767B7705F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE98B9C-CDD5-4AAB-A030-45B0362BEC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE98B9C-CDD5-4AAB-A030-45B0362BEC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE98B9C-CDD5-4AAB-A030-45B0362BEC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE98B9C-CDD5-4AAB-A030-45B0362BEC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA51722-2E8B-49BE-8008-8D6F6DD1BC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA51722-2E8B-49BE-8008-8D6F6DD1BC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA51722-2E8B-49BE-8008-8D6F6DD1BC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA51722-2E8B-49BE-8008-8D6F6DD1BC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219648F5-9B9D-419E-8A09-E0A3098D4F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219648F5-9B9D-419E-8A09-E0A3098D4F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219648F5-9B9D-419E-8A09-E0A3098D4F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219648F5-9B9D-419E-8A09-E0A3098D4F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8DA048-0CF6-46CF-BE92-B800D06D52E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8DA048-0CF6-46CF-BE92-B800D06D52E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8DA048-0CF6-46CF-BE92-B800D06D52E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8DA048-0CF6-46CF-BE92-B800D06D52E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
